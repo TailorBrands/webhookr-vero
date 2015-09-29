@@ -69,8 +69,8 @@ Example output:
 
 ```console
 vero:
-  GET	/webhookr/events/vero/19xl64emxvn
-  POST	/webhookr/events/vero/19xl64emxvn
+  GET	/webhooks/events/vero/19xl64emxvn
+  POST	/webhooks/events/vero/19xl64emxvn
 ```
 
 ## vero Events & Payload
