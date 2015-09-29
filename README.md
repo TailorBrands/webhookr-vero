@@ -82,7 +82,7 @@ All webhook events are supported. For further information on these events, see t
 
 <table>
   <tr>
-    <th>vero Event</th>
+    <th>Vero Event</th>
     <th>Event Handler</th>
   </tr>
   <tr>
