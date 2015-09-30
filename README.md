@@ -1,6 +1,6 @@
 # Webhookr::Vero
 
-[![Circle CI](https://circleci.com/gh/TailorBrands/webhookr-vero.svg?style=svg&circle-token=25e9736184b906b776be926c72535f96bae19e7c)](https://circleci.com/gh/TailorBrands/webhookr-vero)
+[![Circle CI](https://circleci.com/gh/TailorBrands/webhookr-vero.svg?style=svg)](https://circleci.com/gh/TailorBrands/webhookr-vero)
 [![Code Climate](https://codeclimate.com/github/TailorBrands/webhookr-vero/badges/gpa.svg)](https://codeclimate.com/github/TailorBrands/webhookr-vero)
 
 This gem is a plugin for [Webhookr](https://github.com/zoocasa/webhookr) that enables
