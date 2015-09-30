@@ -76,7 +76,7 @@ vero:
   POST	/webhooks/events/vero/19xl64emxvn
 ```
 
-## vero Events & Payload
+## Vero Events & Payload
 
 ### Events
 
