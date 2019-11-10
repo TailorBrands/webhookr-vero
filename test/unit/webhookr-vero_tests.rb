@@ -13,7 +13,7 @@ describe Webhookr::Vero::Adapter do
       "type": "sent",
       "user": {
           "id": 12345,
-          "email": "kevin@tailorbrands.com"
+          "email": "user@tailortest.com"
       },
       "campaign": {
           "id": 1235666234572456,
